@@ -1,0 +1,6 @@
+Add a btn beside each entry, which turns green and display text 'wished'
+add birthday entry with image upload 
+change number at the top when birthday btn is in wished state 
+add backend to the project 
+add scheduled birthday entries (upcoming birthdays)
+mail user regarding the reminder  
